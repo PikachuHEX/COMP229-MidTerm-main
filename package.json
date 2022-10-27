@@ -1,5 +1,5 @@
 {
-  "name": "comp229-f2020-midterm",
+  "name": "comp229-f2022-midterm-301227876",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -45,17 +45,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RomaBakalets/COMP229-MidTerm"
+    "url": "https://github.com/PikachuHEX/COMP229-MidTerm-main"
   },
   "keywords": [
     "NodeJS",
     "ExpressJS",
     "EJS"
   ],
-  "author": "Roma Bakalets",
+  "author": "Saurav Bhatt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RomaBakalets/COMP229-MidTerm/issues"
-  },
-  "homepage": "https://github.com/RomaBakalets/COMP229-MidTerm#readme"
+    "url": "https://github.com/PikachuHEX/COMP229-MidTerm-main/issues"
+  }
 }

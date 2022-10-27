@@ -2,7 +2,7 @@
   "books": [
     {
       "Title": "The Fellowship of the Ring",
-      "Description": "Sauron, the Dark Lord, has gathered to him all the Rings of Power – the means by which he intends to rule Middle-earth. All he lacks in his plans for dominion is the One Ring – the ring that rules them all – which has fallen into the hands of the hobbit, Bilbo Baggins.",
+      "Description": "Sauron, the Dark Lord, has gathered to him all the Rings of Power : the means by which he intends to rule Middle-earth. All he lacks in his plans for dominion is the One Ring : the ring that rules them all : which has fallen into the hands of the hobbit, Bilbo Baggins.",
       "Price": 10.3,
       "Author": "J. R. R. Tolkien",
       "Genre": "Fantasy"
@@ -23,7 +23,7 @@
     },
     {
       "Title": "Ringworld",
-      "Description": "Louis Wu, accompanied by a young woman with genes for luck, and a captured kzin – a warlike species resembling 8-foot-tall cats -- are taken on a space ship run by a brilliant 2-headed alien called Nessus. Their destination is the Ringworld, an artificially constructed ring with high walls that hold 3 million times the area of Earth. Its origins are shrouded in mystery. Louis Wu, accompanied by a young woman with genes for luck, and a captured kzin – a warlike species resembling 8-foot-tall cats -- are taken on a space ship run by a brilliant 2-headed alien called Nessus. Their destination is the Ringworld, an artificially constructed ring with high walls that hold 3 million times the area of Earth. Its origins are shrouded in mystery.Louis Wu, accompanied by a young woman with genes for luck, and a captured kzin – a warlike species resembling 8-foot-tall cats -- are taken on a space ship run by a brilliant 2-headed alien called Nessus. Their destination is the Ringworld, an artificially constructed ring with high walls that hold 3 million times the area of Earth. Its origins are shrouded in mystery.",
+      "Description": "Louis Wu, accompanied by a young woman with genes for luck, and a captured kzin : a warlike species resembling 8-foot-tall cats -- are taken on a space ship run by a brilliant 2-headed alien called Nessus. Their destination is the Ringworld, an artificially constructed ring with high walls that hold 3 million times the area of Earth. Its origins are shrouded in mystery. Louis Wu, accompanied by a young woman with genes for luck, and a captured kzin – a warlike species resembling 8-foot-tall cats -- are taken on a space ship run by a brilliant 2-headed alien called Nessus. Their destination is the Ringworld, an artificially constructed ring with high walls that hold 3 million times the area of Earth. Its origins are shrouded in mystery.Louis Wu, accompanied by a young woman with genes for luck, and a captured kzin – a warlike species resembling 8-foot-tall cats -- are taken on a space ship run by a brilliant 2-headed alien called Nessus. Their destination is the Ringworld, an artificially constructed ring with high walls that hold 3 million times the area of Earth. Its origins are shrouded in mystery.",
       "Price": 10.4,
       "Author": "Larry Niven",
       "Genre": "Sci-Fi"
@@ -65,7 +65,7 @@
     },
     {
       "Title": "Dune",
-      "Description": "Dune is the story of the boy Paul Atreides, who would become the mysterious man known as Muad'Dib. He would avenge the traitorous plot against his noble family—and would bring to fruition humankind’s most ancient and unattainable dream.",
+      "Description": "Dune is the story of the boy Paul Atreides, who would become the mysterious man known as Muad'Dib. He would avenge the traitorous plot against his noble family—and would bring to fruition humankinds most ancient and unattainable dream.",
       "Price": 10.15,
       "Author": "Frank Herbert",
       "Genre": "Sci-Fi"
